@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.4;
 
-import "./lib/Claims.sol";
-import "./lib/Random.sol";
-import "./lib/StringUtils.sol";
-import "./lib/BytesUtils.sol";
+import "./Claims.sol";
+import "./Random.sol";
+import "./StringUtils.sol";
+import "./BytesUtils.sol";
 
 // import "hardhat/console.sol";
 
