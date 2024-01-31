@@ -1,4 +1,4 @@
-# Demo Solidity SDK
+# Verifier Solidity SDK
 
 ```shell
 npm install --legacy-peer-deps

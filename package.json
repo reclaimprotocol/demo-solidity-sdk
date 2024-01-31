@@ -1,13 +1,16 @@
 {
-  "name": "demo-solidity-sdk",
+  "name": "@reclaimprotocol/verifier-solidity-sdk",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A verifier-oriented version of reclaim's solidity sdk.",
+  "files": [
+    "./contracts"
+  ],
+  "main": "",
   "scripts": {
     "test": "hardhat test",
     "build": "hardhat compile"
   },
-  "keywords": [],
+  "keywords": ["solidity","zero knowledge proofs"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
